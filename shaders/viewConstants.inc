@@ -1,0 +1,22 @@
+cbuffer _ViewUniforms : register(b0) {
+    float4 _ViewOrigin;
+    float4 _FrustumVectorLT;
+    float4 _FrustumVectorRT;
+    float4 _FrustumVectorLB;
+    float4 _FrustumVectorRB;
+    float4 _ScreenParms;
+    float4 _DepthBufferParms;
+    float4 _SunForward;
+    float4 _ClusteredLightingSize;
+    float4 _ClusteredLightingParms;
+    float4 _ShadowsAtlasResolution;
+    float4 _TimeParms;
+	float4 _VolumetricLightingResolution;
+	float4 _VolumetricLightingZNearFar;
+    float4 _VolumetricLightingParms;
+    float4 _SunColor;
+    float4 _ViewProjectionMatrix0;
+    float4 _ViewProjectionMatrix1;
+    float4 _ViewProjectionMatrix2;
+    float4 _ViewProjectionMatrix3;
+};
