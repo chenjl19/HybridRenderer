@@ -1,7 +1,16 @@
-## 这个项目主要用来验证一些现代渲染技术。基于c#/c++编写的现代游戏引擎渲染器：混合forward、deferred渲染框架。
-特性：  
-staticmesh、skinnedmesh  
-完整的PBR渲染  
-Sun、Point、Spot、IES灯光支持、PCF软阴影  
-lightmap、SHLighting、IBL间接光照  
-基于计算着色器的后处理：SSDO、SSR、BLOOM、AutoExposure、tonemaping、TAA  
+### 这个项目主要用来验证一些现代渲染技术。
+****
+  
+Deferred/Forward+ 
+StaticMesh、SkinnedMesh  
+PBR  
+DirectLighting: Sun、Point、Spot、IES  
+IndirectLighting: Lightmap、SHLighting、IBL   
+ComputeShader PostProcessing: SSDO、SSR、BLOOM、AutoExposure、tonemaping、TAA  
+
+![](https://github.com/chenjl19/HybridRenderer/blob/dev/pics/atmospheric%20scattering2.jpg "AtmosphericScattering")  
+![](https://github.com/chenjl19/HybridRenderer/blob/dev/pics/ssr.jpg "ScreenSpaceReflection+ReflectionProbe")  
+![](https://github.com/chenjl19/HybridRenderer/blob/dev/pics/volumefog.jpg "FogVolume")  
+![](https://github.com/chenjl19/HybridRenderer/blob/dev/pics/volumelight.jpg "VolumetricLighting")  
+
+
