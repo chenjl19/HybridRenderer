@@ -8,9 +8,9 @@ Sun、Point、Spot、IES
 lightmap、SHLighting、IBL   
 SSDO、SSR、BLOOM、AutoExposure、tonemaping、TAA  
 
-![](https://github.com/chenjl19/HybridRenderer/blob/dev/pics/atmospheric%20scattering2.jpg)  
-![](https://github.com/chenjl19/HybridRenderer/blob/dev/pics/ssr.jpg)  
-![](https://github.com/chenjl19/HybridRenderer/blob/dev/pics/volumefog.jpg)  
-![](https://github.com/chenjl19/HybridRenderer/blob/dev/pics/volumelight.jpg)  
+![](https://github.com/chenjl19/HybridRenderer/blob/dev/pics/atmospheric%20scattering2.jpg "AtmosphericScattering")  
+![](https://github.com/chenjl19/HybridRenderer/blob/dev/pics/ssr.jpg "ScreenSpaceReflection+ReflectionProbe")  
+![](https://github.com/chenjl19/HybridRenderer/blob/dev/pics/volumefog.jpg "FogVolume")  
+![](https://github.com/chenjl19/HybridRenderer/blob/dev/pics/volumelight.jpg "VolumetricLighting")  
 
 
