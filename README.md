@@ -1,6 +1,7 @@
 ### 这个项目主要用来验证一些现代渲染技术。
 ####
-特性：  
+  
+Deferred/Forward+ 
 StaticMesh、SkinnedMesh  
 PBR  
 Sun、Point、Spot、IES  
