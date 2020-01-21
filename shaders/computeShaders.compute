@@ -1,0 +1,40 @@
+compute "builtin/computeShaders" {
+    source "computes/compute.hlsl"
+    kernel ComputeDownsample
+    kernel ComputeDownsampleDepth
+    kernel ComputeSSAO
+    kernel ComputeSSGI
+    kernel ComputeAutoExposure
+    kernel ComputeGaussianBlur
+}
+
+compute "builtin/skylighting" {
+    source "computes/skylightinglut.hlsl"
+    kernel ComputeSkylightingLUT
+}
+
+compute "builtin/deferredProbes" {
+    source "computes/deferredProbes.hlsl"
+    kernel ComputeDeferredProbes
+}
+
+compute "builtin/composite" {
+    source "computes/composite.hlsl"
+    kernel main
+}
+
+compute "builtin/volumetricLighting" {
+    source "computes/volumetricLighting.hlsl"
+    kernel ComputeLightScattering
+    kernel ComputeLightScatteringIntegral
+}
+
+compute "builtin/taa" {
+    source "computes/taa.hlsl"
+    kernel main
+}
+
+compute "builtin/ssr" {
+    source "computes/ssr.hlsl"
+    kernel main
+}
