@@ -14,7 +14,7 @@ Veldrid
 
 [DEMO下载](https://share.weiyun.com/5rnysAY)
 
-![](pics/atmospheric%20scattering1.jpg "AtmosphericScattering") 
+![](pics/atmospheric%20scattering3.jpg "AtmosphericScattering") 
 ![](pics/atmospheric%20scattering2.jpg "AtmosphericScattering")  
 ![](pics/ssr.jpg "ScreenSpaceReflection+ReflectionProbe")  
 ![](pics/volumefog.jpg "FogVolume")  
