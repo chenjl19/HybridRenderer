@@ -8,6 +8,7 @@ DirectLighting: Sun、Point、Spot、IES
 IndirectLighting: Lightmap、SHLighting、IBL   
 ComputeShader PostProcessing: SSDO、SSR、BLOOM、AutoExposure、tonemaping、TAA  
 
+<<<<<<< HEAD
 编译依赖：  
 netcore2.2 sdk
 Veldrid
@@ -15,6 +16,8 @@ Veldrid
 [DEMO下载](https://share.weiyun.com/5rnysAY)
 
 ![](pics/atmospheric%20scattering1.jpg "AtmosphericScattering") 
+=======
+>>>>>>> origin/dev
 ![](pics/atmospheric%20scattering2.jpg "AtmosphericScattering")  
 ![](pics/ssr.jpg "ScreenSpaceReflection+ReflectionProbe")  
 ![](pics/volumefog.jpg "FogVolume")  
