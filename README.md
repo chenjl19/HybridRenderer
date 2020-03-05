@@ -8,7 +8,7 @@ DirectLighting: Sun、Point、Spot、IES
 IndirectLighting: Lightmap、SHLighting、IBL   
 ComputeShader PostProcessing: SSDO、SSR、BLOOM、AutoExposure、tonemaping、TAA  
 
-编译依赖：  
+：  
 netcore2.2 sdk  
 Veldrid
 
