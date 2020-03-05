@@ -12,7 +12,7 @@ ComputeShader PostProcessing: SSDO、SSR、BLOOM、AutoExposure、tonemaping、T
 netcore2.2 sdk  
 Veldrid
 
-[DEMO下载](https://share.weiyun.com/5rnysAY)
+[DEMO](https://share.weiyun.com/5rnysAY)
 
 ![](pics/atmospheric%20scattering3.jpg "AtmosphericScattering") 
 ![](pics/atmospheric%20scattering2.jpg "AtmosphericScattering")  
